@@ -1,0 +1,7 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/Users/kvm6242/Dropbox/PSU/CMPEN331/HW/HW_skeleton/skeleton.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+C:/Users/kvm6242/Dropbox/PSU/CMPEN331/HW/HW_skeleton/skeleton.srcs/sim_1/new/testbench.v,1724104185,verilog,,,,testbench,,,,,,,,
+C:/Users/kvm6242/Dropbox/PSU/CMPEN331/HW/HW_skeleton/skeleton.srcs/sources_1/new/datapath.v,1724272830,verilog,,C:/Users/kvm6242/Dropbox/PSU/CMPEN331/HW/HW_skeleton/skeleton.srcs/sim_1/new/testbench.v,,alu;control_unit;data_mem;datapath;imm_extend;inst_mem;mux_2x1_32b;mux_2x1_5b;pc_adder;program_counter;register_file,,,,,,,,
