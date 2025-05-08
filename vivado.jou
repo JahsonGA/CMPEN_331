@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:13:54 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Thu Oct 10 19:23:34 2024
+# Process ID: 259510
+# Current directory: /home/ugrads/jfg5801/CMPEN_331/HW_skeleton
+# Command line: vivado
+# Log file: /home/ugrads/jfg5801/CMPEN_331/HW_skeleton/vivado.log
+# Journal file: /home/ugrads/jfg5801/CMPEN_331/HW_skeleton/vivado.jou
+# Running On: e5-cse-135-21.cse.psu.edu, OS: Linux, CPU Frequency: 3700.000 MHz, CPU Physical cores: 10, Host memory: 33133 MB
+#-----------------------------------------------------------
+start_gui
+open_project /home/ugrads/jfg5801/CMPEN_331/project_3/project_1.xpr
+update_compile_order -fileset sources_1
