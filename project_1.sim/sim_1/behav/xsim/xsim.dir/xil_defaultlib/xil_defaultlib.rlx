@@ -1,0 +1,7 @@
+0.7
+2020.2
+Oct 13 2023
+20:21:30
+/home/ugrads/jfg5801/CMPEN_331/project_3/project_1.sim/sim_1/behav/xsim/glbl.v,1728602598,verilog,,,,glbl,,,,,,,,
+/home/ugrads/jfg5801/CMPEN_331/project_3/project_1.srcs/sim_1/new/testbench.v,1728602598,verilog,,,,testbench,,,,,,,,
+/home/ugrads/jfg5801/CMPEN_331/project_3/project_1.srcs/sources_1/new/datapath.v,1734456859,verilog,,/home/ugrads/jfg5801/CMPEN_331/project_3/project_1.srcs/sim_1/new/testbench.v,,alu;control_unit;d_e_pipeline;data_mem;datapath;e_m_pipeline;f_d_pipeline;forwarding_unit;hazard_unit;imm_extend;inst_mem;m_w_pipeline;mux_2x1_32b;mux_2x1_5b;mux_3x1_32b;pc_adder;program_counter;register_file,,,,,,,,

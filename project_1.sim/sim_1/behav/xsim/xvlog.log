@@ -1,0 +1,30 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ugrads/jfg5801/CMPEN_331/project_3/project_1.srcs/sources_1/new/datapath.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module datapath
+WARNING: [VRFC 10-2938] 'regOut1_x' is already implicitly declared on line 122 [/home/ugrads/jfg5801/CMPEN_331/project_3/project_1.srcs/sources_1/new/datapath.v:178]
+WARNING: [VRFC 10-2938] 'rt_x' is already implicitly declared on line 104 [/home/ugrads/jfg5801/CMPEN_331/project_3/project_1.srcs/sources_1/new/datapath.v:179]
+WARNING: [VRFC 10-2938] 'regDst_x' is already implicitly declared on line 106 [/home/ugrads/jfg5801/CMPEN_331/project_3/project_1.srcs/sources_1/new/datapath.v:180]
+WARNING: [VRFC 10-2938] 'forwardA' is already implicitly declared on line 125 [/home/ugrads/jfg5801/CMPEN_331/project_3/project_1.srcs/sources_1/new/datapath.v:219]
+WARNING: [VRFC 10-2938] 'aluOut_m' is already implicitly declared on line 124 [/home/ugrads/jfg5801/CMPEN_331/project_3/project_1.srcs/sources_1/new/datapath.v:280]
+WARNING: [VRFC 10-2938] 'writeAddr_m' is already implicitly declared on line 223 [/home/ugrads/jfg5801/CMPEN_331/project_3/project_1.srcs/sources_1/new/datapath.v:281]
+WARNING: [VRFC 10-2938] 'regWrite_m' is already implicitly declared on line 227 [/home/ugrads/jfg5801/CMPEN_331/project_3/project_1.srcs/sources_1/new/datapath.v:282]
+WARNING: [VRFC 10-2938] 'writeAddr_b' is already implicitly declared on line 146 [/home/ugrads/jfg5801/CMPEN_331/project_3/project_1.srcs/sources_1/new/datapath.v:338]
+WARNING: [VRFC 10-2938] 'regWrite_b' is already implicitly declared on line 147 [/home/ugrads/jfg5801/CMPEN_331/project_3/project_1.srcs/sources_1/new/datapath.v:339]
+INFO: [VRFC 10-311] analyzing module program_counter
+INFO: [VRFC 10-311] analyzing module pc_adder
+INFO: [VRFC 10-311] analyzing module inst_mem
+INFO: [VRFC 10-311] analyzing module register_file
+INFO: [VRFC 10-311] analyzing module control_unit
+INFO: [VRFC 10-311] analyzing module imm_extend
+INFO: [VRFC 10-311] analyzing module mux_2x1_32b
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-311] analyzing module data_mem
+INFO: [VRFC 10-311] analyzing module mux_2x1_5b
+INFO: [VRFC 10-311] analyzing module f_d_pipeline
+INFO: [VRFC 10-311] analyzing module d_e_pipeline
+INFO: [VRFC 10-311] analyzing module e_m_pipeline
+INFO: [VRFC 10-311] analyzing module m_w_pipeline
+INFO: [VRFC 10-311] analyzing module forwarding_unit
+INFO: [VRFC 10-311] analyzing module mux_3x1_32b
+INFO: [VRFC 10-311] analyzing module hazard_unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ugrads/jfg5801/CMPEN_331/project_3/project_1.srcs/sim_1/new/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench
